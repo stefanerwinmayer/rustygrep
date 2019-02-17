@@ -1,0 +1,7 @@
+[package]
+name = "rustygrep"
+version = "0.1.0"
+authors = ["Stefan E. Mayer <stefan.e.mayer@gmail.com>"]
+edition = "2018"
+
+[dependencies]
