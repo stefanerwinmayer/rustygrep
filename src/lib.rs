@@ -23,5 +23,8 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
 
     println!("With text:\n{}", contents);
 
+    let x = true;
+    if x == true {}
+
     Ok(())
 }
