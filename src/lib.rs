@@ -52,6 +52,6 @@ When you have eliminated all which is impossible,
 then whatever remains, however improbable,
 must be the truth.";
 
-        assert_eq!(vec!["must be the truth"], search(query, contents));
+        assert_eq!(vec!["must be the truth."], search(query, contents));
     }
 }
